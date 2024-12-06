@@ -27,6 +27,12 @@ td:last-of-type {
   text-align: center;
 }
 
+
 p {
   color: red;
+}
+
+h1 {
+  font-size: 70px;
+  color: green;
 }
